@@ -1,1 +1,0 @@
-# ngoclammanalysis.github.io
